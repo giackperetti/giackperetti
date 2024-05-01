@@ -1,16 +1,33 @@
-### Hi there 👋
+# 👨🏼‍💻 Giacomo Peretti
 
-<!--
-**giackperetti/giackperetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+#!/usr/bin/python
+from typing import List
 
-Here are some ideas to get you started:
+class SoftwareEngineer:
+    def __init__(self, name: str, role: str, languages: List[str]):
+        self.full_name = name
+        self.role = role
+        self.spoken_languages = languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def say_hi(self):
+        print("Thanks for dropping by, hope you'll find something interesting here. :)")
+
+
+me = SoftwareEngineer("Giacomo Peretti", "Computer Science Student", ["it_IT", "en_US"])
+me.say_hi()
+
+```
+
+---
+
+### 🧰 Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=py,java,go,c,cpp,bash,html,css,js,linux,neovim,vscode&theme=dark&perline=3)](https://skillicons.dev)
+
+#
+
+<details close>
+    <summary>📊 Stats</summary>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=giack-dev&show_icons=true&count_private=true&theme=gruvbox&include_all_commits=true&hide_border=true" />
+</details>
