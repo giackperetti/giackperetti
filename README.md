@@ -1,22 +1,29 @@
 # 👨🏼‍💻 Giacomo Peretti
 
-```python
-#!/usr/bin/python
-from typing import List
+```go
+package main
 
-class SoftwareEngineer:
-    def __init__(self, name: str, role: str, languages: List[str]):
-        self.full_name = name
-        self.role = role
-        self.spoken_languages = languages
+import "fmt"
 
-    def say_hi(self):
-        print("Thanks for dropping by, hope you'll find something interesting here. :)")
+type SoftwareEngineer struct {
+    FullName        string
+    Role            string
+    SpokenLanguages []string
+}
 
+func (se *SoftwareEngineer) sayHi() {
+    fmt.Println("Thanks for dropping by, hope you'll find something interesting here. :)")
+}
 
-me = SoftwareEngineer("Giacomo Peretti", "Computer Science Student", ["it_IT", "en_US"])
-me.say_hi()
+func main() {
+    me := SoftwareEngineer{
+        FullName:        "Giacomo Peretti",
+        Role:            "Computer Science Student",
+        SpokenLanguages: []string{"it_IT", "en_US"},
+    }
 
+    me.sayHi()
+}
 ```
 
 ---
