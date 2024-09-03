@@ -1,32 +1,72 @@
 # 👨🏼‍💻 Giacomo Peretti
 
-
 ```python
 #!/usr/bin/python
-from typing import List
+from typing import Dict, List
+
 
 class SoftwareEngineer:
-    def __init__(self, name: str, role: str, languages: List[str]):
+    def __init__(
+        self,
+        name: str,
+        spoken_languages: List[str],
+        languages: List[str],
+        technologies: Dict[str, List[str]],
+        focus=str,
+    ):
         self.full_name = name
-        self.role = role
-        self.spoken_languages = languages
+        self.spoken_languages = spoken_languages
+        self.languages = languages
+        self.technologies = technologies
+        self.current_focus = focus
 
-    def say_hi(self):
-        print("Thanks for dropping by, hope you'll find something interesting here. :)")
+    def hi(self):
+        return (
+            f"Hi! I am {self.full_name}.\n"
+            f"I can speak {self.spoken_languages}.\n"
+            f"I can code in {self.languages}.\n"
+            f"I can use the following technologies {self.technologies}.\n"
+            f"I am currently focusing on {self.current_focus}.\n"
+        )
 
 
-me = SoftwareEngineer("Giacomo Peretti", "Computer Science Student", ["it_IT", "en_US"])
-me.say_hi()
+def main():
+    name = "Giacomo Peretti"
+    spoken_languages = ["it_IT", "en_US"]
+    languages = [
+        "Python",
+        "Java",
+        "C",
+        "C++",
+        "Go",
+        "Javascript",
+        "HTML",
+        "CSS",
+        "Bash",
+    ]
+    technologies = {
+        "frontend": ["SvelteJS", "TailwindCSS"],
+        "backend": {
+            "python": ["Flask", "Django"],
+            "go": ["Echo", "Fiber"]
+        },
+        "databases": {
+            "sql": ["SQLite", "MySQL"],
+            "no_sql": ["MongoDB"]
+        },
+    }
+    focus = "learning Elixir and Phoenix"
+
+    giacomo = SoftwareEngineer(name, spoken_languages, languages, technologies, focus)
+    print(giacomo.hi())
+
+
+if __name__ == "__main__":
+    main()
 ```
-
 ---
-
-### 🧰 Languages and Tools
-
-[![My Skills](https://skillicons.dev/icons?i=py,java,go,c,cpp,bash,html,css,js,linux,neovim,vscode&theme=dark&perline=3)](https://skillicons.dev)
-
 
 <details close>
     <summary>📊 Stats</summary>
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=giackperetti&show_icons=true&count_private=true&theme=gruvbox&include_all_commits=true&hide_border=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=giackperetti&show_icons=true&theme=gruvbox" />
 </details>
