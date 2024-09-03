@@ -12,7 +12,7 @@ class SoftwareEngineer:
         spoken_languages: List[str],
         languages: List[str],
         technologies: Dict[str, List[str]],
-        focus=str,
+        focus: str,
     ):
         self.full_name = name
         self.spoken_languages = spoken_languages
