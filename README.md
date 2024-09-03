@@ -12,13 +12,11 @@ class SoftwareEngineer:
         spoken_languages: List[str],
         languages: List[str],
         technologies: Dict[str, List[str]],
-        focus: str,
     ):
         self.full_name = name
         self.spoken_languages = spoken_languages
         self.languages = languages
         self.technologies = technologies
-        self.current_focus = focus
 
     def hi(self):
         return (
@@ -26,7 +24,6 @@ class SoftwareEngineer:
             f"I can speak {self.spoken_languages}.\n"
             f"I can code in {self.languages}.\n"
             f"I can use the following technologies {self.technologies}.\n"
-            f"I am currently focusing on {self.current_focus}.\n"
         )
 
 
@@ -55,9 +52,8 @@ def main():
             "no_sql": ["MongoDB"]
         },
     }
-    focus = "learning Elixir and Phoenix"
 
-    giacomo = SoftwareEngineer(name, spoken_languages, languages, technologies, focus)
+    giacomo = SoftwareEngineer(name, spoken_languages, languages, technologies)
     print(giacomo.hi())
 
 
