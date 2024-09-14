@@ -2,7 +2,7 @@
 I'm a Computer Science student, balancing schoolwork with gym sessions and hiking in my free time.
 
 - 🌲 I enjoy hiking and staying active when I’m not coding.
-- 💡 I am interested in functional programming, backend web development and linux(i use arch btw).
+- 💡 I am interested in functional programming, backend web development and linux.
 - 🚀 I am aiming to become a Software Engineer.
 - 💬 Feel free to reach out if you want to talk about programming, tech trends, fitness, or outdoor adventures!
 
