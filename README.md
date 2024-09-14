@@ -6,7 +6,7 @@ I'm a Computer Science student, balancing schoolwork with gym sessions and hikin
 - 🚀 I am aiming to become a Software Engineer.
 - 💬 Feel free to reach out if you want to talk about programming, tech trends, fitness, or outdoor adventures!
 
-### ⚙️ Tech Stack
+### 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,java,elixir,c,cpp,go,html,css,js,bash&theme=dark&perline=3)](https://skillicons.dev)
 
 <details close>
