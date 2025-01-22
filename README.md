@@ -2,8 +2,8 @@
 I'm a Computer Science student, balancing schoolwork with gym sessions and hiking in my free time.
 
 - 🌲 I enjoy hiking and staying active when I’m not coding.
-- 💡 I am interested in fullstack web and mobile development and ML/AI.
-- 🚀 I aim to become a Software Engineer.
+- 💡 I am interested in fullstack development and ML/AI.
+- 🚀 I aim to have a career in Computer Science.
 - 💬 Feel free to reach out if you want to talk about programming, tech trends, fitness, or outdoor adventures!
 
 ### 🛠️ Tech Stack
