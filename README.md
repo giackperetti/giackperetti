@@ -14,7 +14,7 @@ I'm a Computer Science student, balancing schoolwork with gym sessions and hikin
 #### 📊 Data Engineering
 [![My Skills](https://skillicons.dev/icons?i=r,mysql,sqlite,mongodb&theme=dark&perline=4)](https://skillicons.dev)
 #### 🤖 ML/AI
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,opencv,pytorch&theme=dark&perline=4)](https://skillicons.dev)
 
 <details close>
     <summary>📊 Stats</summary>
