@@ -18,5 +18,6 @@ I'm a Computer Science student, balancing schoolwork with gym sessions and hikin
 
 <details close>
     <summary>📊 Stats</summary>
+    <br>
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=giackperetti&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true&theme=catppuccin_mocha" />
 </details>
