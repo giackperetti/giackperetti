@@ -7,7 +7,7 @@ I'm a Computer Science student, balancing schoolwork with gym sessions and hikin
 - 💬 Feel free to reach out if you want to talk about programming, tech trends, fitness, or outdoor adventures!
 
 ### 🛠️ Tech Stack
-#### 📕 Frontend
+#### 📝 Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,svelte,tailwind&theme=dark&perline=4)](https://skillicons.dev)
 #### 🔧 Backend
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,python,flask,go,java,elixir&theme=dark&perline=4)](https://skillicons.dev)
