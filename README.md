@@ -8,9 +8,9 @@ I'm a Computer Science student, balancing schoolwork with gym sessions and hikin
 
 ### 🛠️ Tech Stack
 #### 📝 Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,svelte,tailwind&theme=dark&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark&perline=4)](https://skillicons.dev)
 #### 🔧 Backend
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,python,flask,go,java,elixir&theme=dark&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,python,flask,go,java,elixir&theme=dark&perline=3)](https://skillicons.dev)
 #### 📊 Data Engineering
 [![My Skills](https://skillicons.dev/icons?i=r,mysql,sqlite,mongodb&theme=dark&perline=4)](https://skillicons.dev)
 #### 🤖 ML/AI
