@@ -3,7 +3,7 @@
 I'm a **Computer Engineering** student, balancing academics with self-learning to broaden my technical and scientific knowledge.
 
 - 🌲 In my free time, I enjoy hiking and staying active.  
-- 💡 Interested in *ML/AI* and *Web Development*.  
+- 💡 Interested in **ML/AI** and **Web Development**.  
 - 🚀 Aiming for a career in **Applied Computer Science**, especially in something like **Computational Biology** and **Neuroscience**.  
 - 💬 Always happy to talk tech, science, fitness, or the outdoors. Feel free to reach out!
 
