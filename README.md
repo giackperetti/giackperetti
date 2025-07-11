@@ -1,16 +1,17 @@
 ## Hello there 👋
-I'm a Computer Science student, balancing schoolwork with gym sessions and hiking in my free time.
 
-- 🌲 I enjoy hiking and staying active when I’m not coding.
-- 💡 I am interested in ML/AI and fullstack development.
-- 🚀 I aim to have a career in Applied Computer Science.
-- 💬 Feel free to reach out if you want to talk about programming, tech trends, fitness, or outdoor adventures!
+I'm a Computer Engineering student, balancing academics with self-learning to broaden my technical and scientific knowledge.
+
+🌲 In my free time, I enjoy hiking and staying active.
+💡 Interested in ML/AI and web development.
+🚀 Aiming for a career in Applied Computer Science, especially in something like Computational Biology and Neuroscience.
+💬 Always happy to talk tech, science, fitness, or the outdoors. Feel free to reach out!
 
 ### 🛠️ Tech Stack
 #### 📝 Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark&perline=4)](https://skillicons.dev)
 #### 🔧 Backend
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,python,flask,fastapi,go,java,elixir&theme=dark&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,python,fastapi,flask,go,java,elixir&theme=dark&perline=4)](https://skillicons.dev)
 #### 📊 Data Engineering
 [![My Skills](https://skillicons.dev/icons?i=r,mysql,sqlite,mongodb&theme=dark&perline=4)](https://skillicons.dev)
 #### 🤖 ML/AI
