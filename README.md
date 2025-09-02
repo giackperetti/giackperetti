@@ -4,7 +4,7 @@ I'm a **Computer Engineering** student, balancing academics with self-learning t
 
 - 🌲 In my free time, I enjoy hiking and staying active.  
 - 💡 Interested in **ML/AI** and **Web Development**.  
-- 🚀 Aiming for a career in **Applied Computer Science**, especially in something like **Computational Biology** and **Neuroscience**.  
+- 🚀 Aiming for a career in **Applied Computer Science**, especially in something like **Computational Biology** or **Neuroscience**.  
 - 💬 Always happy to talk tech, science, fitness, or the outdoors. Feel free to reach out!
 
 ### 🛠️ Tech Stack
