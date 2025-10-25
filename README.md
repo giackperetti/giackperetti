@@ -13,7 +13,7 @@ I'm a **Computer Engineering** student, balancing academics with self-learning t
 #### 🔧 Backend
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,python,fastapi,flask,go,java,elixir&theme=dark&perline=4)](https://skillicons.dev)
 #### 📊 Data Engineering
-[![My Skills](https://skillicons.dev/icons?i=r,mysql,sqlite,mongodb&theme=dark&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,mysql,sqlite,mongodb&theme=dark&perline=4)](https://skillicons.dev)
 #### 🤖 ML/AI
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,opencv,pytorch&theme=dark&perline=4)](https://skillicons.dev)
 
