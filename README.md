@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm a **Computer Engineering** student, balancing academics with self-learning to broaden my technical and scientific knowledge.
+I'm a **Engineering** student, balancing academics with self-learning to broaden my technical and scientific knowledge.
 
 - 🚀 Aiming for a career in **Applied Computer Science**, especially in fields like **Bioinformatics** or **Computational Neuroscience**.
 - 💡 Exploring the intersection of **Advanced Mathematics** (Calculus/Linear Algebra), **Machine Learning**, and **Scientific Computing** applications.
