@@ -1,9 +1,13 @@
 ## Hello there 👋
 
-I'm a **Engineering** student, balancing academics with self-learning to broaden my technical and scientific knowledge.
+I'm a **Mathematics for Engineering** student balancing academics, self-directed learning, and an active lifestyle to continually broaden my technical and scientific perspective.
 
-- 🚀 Aiming for a career in **Applied Computer Science**, especially in fields like **Bioinformatics** or **Computational Neuroscience**.
-- 💡 Exploring the intersection of **Advanced Mathematics** (Calculus/Linear Algebra), **Machine Learning**, and **Scientific Computing** applications.
+* 🚀 Working toward an academic career in **Applied Mathematics**, with a focus on developing and applying mathematical models at the intersection of **mathematics, computation, and the natural sciences**, particularly in areas such as **neuroscience**, **biology**, and healthcare.
+
+* 💡 Expanding my horizons by deepening my understanding of **mathematics** to strengthen and support my knowledge of **computation** and its applications to scientific problems.
+
+
+Studying Mathematics for Engineering | Applying Mathematical Models to Scientific Problems
 
 <details closed>
 <summary><h3>🛠️ Tech Stack</h3></summary>
